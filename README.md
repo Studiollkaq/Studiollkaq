@@ -13,12 +13,6 @@ Information Systems Student
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Community-5C2D91?logo=visualstudio&logoColor=white" />
 </p>
 
-### 🌱 About Me
-
-- 🎓 Information Systems Student.
-- 🤝 Open to collaboration.
-- 📫 Reach me on Instagram: **@ryzlkhw**
-
 ### 🌐 Let's Connect!
 
 <a href="https://www.instagram.com/ryzlkhw">
